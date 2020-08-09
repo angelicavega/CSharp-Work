@@ -1,3 +1,5 @@
+//This code is being used for a Virtual Reality Unity Game that is currently still in progress
+//It will help collect the heart rate of our users in order to create an immersive experience while playing, based on their BPM
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
